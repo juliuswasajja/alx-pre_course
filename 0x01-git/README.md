@@ -1,1 +1,1 @@
-My second readme
+Empty directory for now
